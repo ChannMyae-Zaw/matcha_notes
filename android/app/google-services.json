@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791471197513",
+    "project_id": "matcha-notes-77bf5",
+    "storage_bucket": "matcha-notes-77bf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791471197513:android:83887abb69a36fad3f5e98",
+        "android_client_info": {
+          "package_name": "com.example.matcha_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-78cZwb1yp9jFsyra_Hf_ybxMtGz1XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
